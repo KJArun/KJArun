@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KJ Arun Kumar</h1>
-<h3 align="center">An aspiring Python full stack developer from India</h3>
+<h3 align="center">An aspiring Python Full Stack developer from India</h3>
 
 - 🌱 I’m currently learning **Backend Development**
 
